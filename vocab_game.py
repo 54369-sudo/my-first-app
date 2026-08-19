@@ -96,4 +96,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-st.write("นาย กฤตยชญ์ อุ่นคำ เลขที่ 22 ม.4/8")
+st.write("นาย กฤตยชญ์ อุ่นคำ เลขที่ 22  ม.4/2")
