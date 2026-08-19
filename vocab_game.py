@@ -136,4 +136,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2, ans3, ans4)
 
 st.divider()
-st.write("นาย กฤตยชญ์ อุ่นคำ ม.4/2")
+st.write("นาย กฤตยชญ์ อุ่นคำ 22 ม.4/2")
