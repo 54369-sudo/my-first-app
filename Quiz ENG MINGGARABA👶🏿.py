@@ -130,4 +130,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(user_answers)
 
 st.divider()
-st.write("นาย กฤตยชญ์ อุ่นคำ 22 ม.4/2")
+st.write("กลุ่ม3🧜🏿")
